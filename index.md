@@ -1,29 +1,27 @@
 
-### Anahita Taheri
+### Sajedeh Samari
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Sajedeh
++ last name : Samari
++ Date of birth : 2000 / February / 21
++ I am a computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Web programmer
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
++ Bachelor of science : Software Engineer
 _ payam Noor University of North 
 
 ### language
@@ -35,16 +33,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ Website programming
 + travel 
 + playing volleyball
++ 
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
-
++ Collaborate with a programming team in the form of a web programming project
 
 
 
